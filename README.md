@@ -1,3 +1,3 @@
 # apnacollage-demo
-This is my first git repository
-Author Sushil Yadav
+This is my first git repository.
+Author:- Sushil Yadav
